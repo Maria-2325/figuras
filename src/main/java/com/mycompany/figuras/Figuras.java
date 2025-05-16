@@ -23,9 +23,9 @@ public class Figuras {
         
         System.out.println("\n\t---------Triangulo Rectangulo------");
         TrianguloRectangulo objTrianguloRectangulo = new TrianguloRectangulo(8d, 16d);
-        System.out.println("El area del triangulo rectangulo es: " + objRectangulo.calcularArea());
-        System.out.println("El perimetro del triangulo rectangulo es: " + objRectangulo.calcularPerimetro());
-        System.out.println("La hipotenusa del triangulo rectangulo es: " + objRectangulo.calcularArea());
+        System.out.println("El area del triangulo rectangulo es: " + objTrianguloRectangulo.calcularArea());
+        System.out.println("El perimetro del triangulo rectangulo es: " + objTrianguloRectangulo.calcularPerimetro());
+        System.out.println("La hipotenusa del triangulo rectangulo es: " + objTrianguloRectangulo.calcularArea());
         System.out.println("El tipo de triangulo es: " + objRectangulo.calcularPerimetro());
         
 
